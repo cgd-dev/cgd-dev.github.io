@@ -1,3 +1,4 @@
+- [June](june.md)
 - Getting started
 
   - [Quick start](quickstart.md)
