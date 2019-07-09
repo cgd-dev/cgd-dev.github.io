@@ -5,12 +5,15 @@
 - [x] **Digital Ocean** : ( Goal - to use plesk free for 3 domain and cancel web pro edition from plesk )
   - [ ] Check the domain cgdiomampo tomorrow.
   - [ ] Https://178.128.117.121:8443
-- [ ] **Build Docsify**
+- [ ] **Docsify for Dev Work**
   - [ ] live site : https://cgd-dev.github.io/main/#/npm
   - [ ] local path : /Users/cgd/root/workspace/personal-projects/cgd-dev.github.io
   - [ ] Web Dev Important Notes
   - [ ] Local File System / Valet links — create a list of local website
   - [ ] List of WP Plugins
+- [ ] **Docsify for Todos**
+  - [ ] live site : https://cgd-dev.github.io/todos
+  - [ ] local path : /Users/cgd/root/workspace/personal-projects/todos
 - [ ] **Create Wireframe for BTTG Website**
 - [ ] **SacredMedals**
 - [ ] **Proposal for Dane Banilla**
