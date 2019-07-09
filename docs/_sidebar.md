@@ -1,20 +1,7 @@
 - 2019
 
-  - [June](june.md)
+  - July
 
-- CSS
+    - [Week 2](/july/week2.md)
 
-  - [CSS](css.md)
-  - [The Box Model](themes.md)
-  - [Flex Box](themes.md)
-
-- NPM
-
-  - [NPM Script](npm.md)
-
-- Webpack
-
-  - [Intro to Webpack](webpack.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+  - August
