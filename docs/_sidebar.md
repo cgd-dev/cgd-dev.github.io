@@ -2,6 +2,6 @@
 
   - July
 
-    - [Week 2](/july/week2.md)
+    - [Week 2](/July/week2.md)
 
   - August
