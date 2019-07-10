@@ -3,8 +3,9 @@
 **Task Lists**
 
 - [x] **Digital Ocean** : ( Goal - to use plesk free for 3 domain and cancel web pro edition from plesk )
-  - [ ] Check the domain cgdiomampo tomorrow.
-  - [ ] Https://178.128.117.121:8443
+  - [x] Check the domain cgdiomampo tomorrow.
+  - [x] Https://178.128.117.121:8443
+  - [ ] Check back again for new settings
 - [ ] **Docsify for Dev Work**
   - [ ] live site : https://cgd-dev.github.io/main/#/npm
   - [ ] local path : /Users/cgd/root/workspace/personal-projects/cgd-dev.github.io
@@ -17,3 +18,8 @@
 - [ ] **Create Wireframe for BTTG Website**
 - [ ] **SacredMedals**
 - [ ] **Proposal for Dane Banilla**
+
+**Ed Videos to watch**
+
+- [ ] CSS and Sass 2 Chapters
+- [ ] Javascripts 2 Chapters
