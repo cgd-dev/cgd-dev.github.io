@@ -23,3 +23,7 @@
 
 - [ ] CSS and Sass 2 Chapters
 - [ ] Javascripts 2 Chapters
+
+> Markdown instructions
+
+ref: https://jhildenbiddle.github.io/docsify-themeable/#/markdown?id=text
