@@ -21,7 +21,7 @@
 
 **Ed Videos to watch**
 
-- [ ] CSS and Sass 2 Chapters
+- [x] CSS and Sass 2 Chapters
 - [ ] Javascripts 2 Chapters
 
 > Markdown instructions
