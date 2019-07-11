@@ -1,7 +1,5 @@
 - 2019
 
-  - July
+  - [July](July.md)
 
-    - [Week 2](/July/week2.md)
-
-  - August
+  - [August](August.md)
