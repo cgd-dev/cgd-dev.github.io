@@ -9,8 +9,16 @@
   - https://www.howtographql.com/basics/0-introduction/
 - React
   - Components and Props
+    - [React.Component](https://reactjs.org/docs/react-component.html)
   - State and Lifecycle
   - JSX
+  - Handling Events
+    - [Events - W3C spec](https://www.w3.org/TR/DOM-Level-3-Events/)
+    - [SyntheticEvent](https://reactjs.org/docs/events.html)
+  - Route
+    - https://reacttraining.com/react-router/web/example/basic
+- Javascript
+  - [Bind()](https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/)
 
 ### Dev URLs
 
