@@ -6,6 +6,7 @@
   - [ ] Server: Https://178.128.117.121:8443
   - [ ] Delete the old server
   - [ ] tactiksconcepts.com
+    - [x] local site http://tactiksconcepts.test/
     - [ ] transfer from old site to new site
     - [ ] fix issue count()
 - [ ] **Docsify for Dev Work**
