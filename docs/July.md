@@ -1,3 +1,39 @@
+### 07.16.19
+
+**Task Lists**
+
+- [x] **Digital Ocean** :
+  - [ ] Server: Https://178.128.117.121:8443
+  - [ ] Delete the old server
+  - [ ] tactiksconcepts.com
+    - [ ] transfer from old site to new site
+    - [ ] fix issue count()
+- [ ] **Docsify for Dev Work**
+  - [x] live site : https://cgd-dev.github.io/main/#/npm
+  - [x] local path : /Users/cgd/root/workspace/personal-projects/cgd-dev.github.io
+  - [ ] Web Dev Important Notes
+  - [ ] Local File System / Valet links — create a list of local website
+  - [ ] List of WP Plugins
+- [ ] **Docsify for Todos**
+  - [ ] live site : https://cgd-dev.github.io/todos
+  - [ ] local path : /Users/cgd/root/workspace/personal-projects/todos
+- [ ] **Create Wireframe for BTTG Website**
+- [ ] **SacredMedals**
+- [ ] **Proposal for Dane Banilla**
+
+**Ed Videos to watch**
+
+- [ ] CSS and Sass 2 Chapters
+- [ ] Javascripts and React 2 Chapters
+
+**iOS Dev**
+
+- [ ] Swift
+  - [ ] SwiftUI
+    - https://developer.apple.com/tutorials/swiftui/creating-and-combining-views
+
+---
+
 ### 07.11.19
 
 **Task Lists**
