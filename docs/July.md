@@ -40,10 +40,10 @@
 **Task Lists**
 
 - [x] **Digital Ocean** :
-  - [ ] Server: Https://178.128.117.121:8443
-  - [ ] Delete the old server
+  - [x] Server: Https://178.128.117.121:8443
+  - [x] Delete the old server
   - [x] tactiksconcepts.com
-    - [ ] transfer web contents from old site to new site
+    - [x] transfer web contents from old site to new site
     - [x] transfer emails from old site to new site
 - [ ] **Docsify for Dev Work**
   - [x] live site : https://cgd-dev.github.io/main/#/npm
