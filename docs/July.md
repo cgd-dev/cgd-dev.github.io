@@ -42,8 +42,9 @@
 - [x] **Digital Ocean** :
   - [ ] Server: Https://178.128.117.121:8443
   - [ ] Delete the old server
-  - [ ] tactiksconcepts.com
-    - [ ] transfer from old site to new site
+  - [x] tactiksconcepts.com
+    - [ ] transfer web contents from old site to new site
+    - [x] transfer emails from old site to new site
 - [ ] **Docsify for Dev Work**
   - [x] live site : https://cgd-dev.github.io/main/#/npm
   - [x] local path : /Users/cgd/root/workspace/personal-projects/cgd-dev.github.io
